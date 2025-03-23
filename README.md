@@ -42,10 +42,10 @@ Discuss the challenges encountered during the implementation, specifically compa
 - To address the challenge of achieving good performance for both Odd and Even Layers models and the models trained with LoRA, consider using techniques like ensemble learning or model averaging to combine the predictions of multiple models.
     
 **Performance Analysis:**
-    | Model Type    | Training Loss | Test Set Performance |
-    | ------------- | ------------- |--------------------- |
-    | Odd Layer     | 0.1789        |  0.8351              |
-    | Even Layer    | 0.4567        |  0.8350              |
-    | LoRA          | 0.3758        |  0.8529              |
+| Model Type    | Training Loss | Test Set Performance |
+|---------------|---------------|----------------------|
+| Odd Layer     | 0.1789        | 0.8351               |
+| Even Layer    | 0.4567        | 0.8350               |
+| LoRA          | 0.3758        | 0.8529               |
 
 The performance of the models trained with Odd Layers and Even Layers is comparable, with the Even Layer model achieving slightly better performance. The models trained with LoRA achieve the best performance, with a test set performance of 0.8529. The improvements or modifications proposed to address the challenges can help improve the performance of the models, making them more suitable for real-world applications. The performance analysis provided in the table highlights the differences in performance across the three methods.
