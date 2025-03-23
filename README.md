@@ -47,6 +47,6 @@ The performance of the models trained with Odd Layers and Even Layers is compara
   ![Fig 1. Video](./screenshots/Video.gif)
   
   <p align="left">
-      <img src="./screenshots/Screenshot1.png" width="50%">  
-      <img src="./screenshots/Screenshot2.png" width="50%">
+      <img src="./screenshots/Screenshot1.png" width="100%">  
+      <img src="./screenshots/Screenshot2.png" width="100%">
   </p>
