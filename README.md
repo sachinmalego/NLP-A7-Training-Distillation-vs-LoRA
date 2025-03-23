@@ -6,12 +6,7 @@ The `dataset` I have used is `christinacdl/hate_speech_2_classes` from HuggingFa
 
 Dataset: https://huggingface.co/datasets/christinacdl/hate_speech_2_classes
 
-<iframe
-  src="https://huggingface.co/datasets/christinacdl/hate_speech_2_classes/embed/viewer/default/train"
-  frameborder="0"
-  width="100%"
-  height="560px"
-></iframe>
+[View Dataset on HuggingFace](https://huggingface.co/datasets/christinacdl/hate_speech_2_classes)
 
 #### Evaluation and Analysis
 Evaluate the models on the test set, and analyze the performance of the models trained with Odd Layers, Even Layers, and LoRA. Discuss the differences in performance across the three methods. The difference in performance across the three methods are determined by comparing the results of the model performance.
