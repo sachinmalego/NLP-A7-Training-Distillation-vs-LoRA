@@ -4,9 +4,7 @@ In this assignment, we will explore the comparison between Odd Layer and Even La
 #### Dataset
 The `dataset` I have used is `christinacdl/hate_speech_2_classes` from HuggingFace. The dataset contains `38,826 number` of samples with `31.1K train`, `3.88K validation` and `3.88K test`. This dataset has two features `text` and `label`. The label is defined as `1 for toxic or hate speech` and `0 for non-toxic or non-hate speech`.
 
-Dataset: https://huggingface.co/datasets/christinacdl/hate_speech_2_classes
-
-[View Dataset on HuggingFace](https://huggingface.co/datasets/christinacdl/hate_speech_2_classes)
+Dataset: [View Dataset on HuggingFace](https://huggingface.co/datasets/christinacdl/hate_speech_2_classes)
 
 #### Evaluation and Analysis
 Evaluate the models on the test set, and analyze the performance of the models trained with Odd Layers, Even Layers, and LoRA. Discuss the differences in performance across the three methods. The difference in performance across the three methods are determined by comparing the results of the model performance.
